@@ -9,7 +9,7 @@ I love stuffs like **functional programming**, **type theory**, **compilers**...
 - I recently wrote an article on [**learning and capturing the essence of Haskell**](https://dev.to/sisypheus/learning-haskell-5g3m)
 - I'm also currently learning and dealing with [**row-polymorphism**](https://en.wikipedia.org/wiki/Row_polymorphism)
 
-### Languages and tools I daily deal with
+### Languages and tools I daily deal with
 
 ![Languages and tools](https://skillicons.dev/icons?i=haskell,ocaml,c,js,wasm,latex,git,docker&theme=light)
 
