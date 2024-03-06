@@ -1,10 +1,10 @@
 ### Hey, it's Thomas
 
-I'm a programming language designer and developer with almost 4 years of experience. I'm currently working on a new programming language called [**Feather**](https://github.com/sisypheus-dev/feather-language). I often use **Haskell** to write my programming languages' compilers and interpreters.
+I'm a programming language designer and developer with almost 4 years of experience. I'm currently working on a new programming language called [**Plume**](https://github.com/sisypheus-dev/plume-language). I often use **Haskell** to write my programming languages' compilers and interpreters.
 
 I love stuffs like **functional programming**, **type theory**, **compilers**... I love sharing my knowledge so i'm planning to write some article series about creating and designing a programming language from scratch on my future blog.
 
-- I'm looking for language feedback for [**Feather**](https://github.com/sisypheus-dev/feather-language)
+- I'm looking for language feedback for [**Plume**](https://github.com/sisypheus-dev/plume-language)
 - I'm currently creating a [**Zed extension for Cabal**](https://github.com/sisypheus-dev/zed-cabal-extension)
 - I recently wrote an article on [**learning and capturing the essence of Haskell**](https://dev.to/sisypheus/learning-haskell-5g3m)
 - I'm also currently learning and dealing with [**row-polymorphism**](https://en.wikipedia.org/wiki/Row_polymorphism)
