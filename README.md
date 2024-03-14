@@ -1,4 +1,4 @@
-### Hey, it's Thomas
+### Hey, it's Sisypheus
 
 I'm a programming language designer and developer with almost 4 years of experience. I'm currently working on a new programming language called [**Plume**](https://github.com/sisypheus-dev/plume-language). I often use **Haskell** to write my programming languages' compilers and interpreters.
 
