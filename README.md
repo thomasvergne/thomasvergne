@@ -4,7 +4,7 @@ I'm a programming language designer and developer with almost 4 years of experie
 
 I love kinds of stuff like **functional programming**, **type theory**, **compilers**... I love sharing my knowledge so I plan to write an article series about creating and designing a programming language from scratch on my future blog.
 
-- I'm looking for language feedback for [**Plume**](https://github.com/thomasvergne/plume-language)
+- I'm looking for language feedback for [**Plume**](https://github.com/plume-lang/plume)
 - I'm currently creating a [**Zed extension for Cabal**](https://github.com/thomasvergne/zed-cabal-extension)
 - I recently wrote an article on [**learning and capturing the essence of Haskell**](https://dev.to/sisypheus/learning-haskell-5g3m)
 - I'm also currently learning and dealing with [**row-polymorphism**](https://en.wikipedia.org/wiki/Row_polymorphism)
