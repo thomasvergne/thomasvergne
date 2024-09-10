@@ -21,4 +21,4 @@ I love kinds of stuff like **functional programming**, **type theory**, **compil
 ### How to reach me
 
 - [contact@thomas-vergne.fr](mailto:contact@thomas-vergne.fr)
-- [sisypheus. (discord)](https://discordapp.com/users/995010152535179314)
+- [thomasvergne (discord)](https://discordapp.com/users/766231131720646666)
